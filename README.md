@@ -5,7 +5,7 @@
 ||
 |:-----|
 | Albert, Christian James |
-| アルバート、クリスチャン ジェイムズ |
+| アルバート、クリスチャン　ジェイムズ |
 | (姓、ファースト　ミドル) |
 |[on LinkedIn](https://www.linkedin.com/in/christianjamesalbert/)|
 |[calbert1209@gmail.com](mailto:calbert1209@gmail.com)|
@@ -102,3 +102,22 @@
 - セールスとPR用の文章の英訳やコピーライティング
 - 基本操作を紹介する[YouTubeビデオのシリーズ](https://www.youtube.com/playlist?list=PLf-CvxM4vEYvKyCuK0x1Jh_y8ePlzdvoo)作成
 - ウェブサイトとアプリのローカライゼーション
+
+## 資格と学歴
+
+### 2011年11月：BJT ビジネス日本語能力テスト　レベル J2
+
+公益財団法人 日本漢字能力検定協会
+
+### 2005年2月：日本語能力試験（JLPT）レベル １
+
+財団法人　日本国際教育支援協会
+
+### 2001年10月 Certificate in Teaching English to Speakers of Other Languages (CELTA)
+
+University of Cambridge Local Examinations Syndicate
+
+### 2000年6月 Bachelor of Arts (B.A.)
+
+政治学と金融経済学
+Gustavus Adolphus College, 米国、ミネソタ州
