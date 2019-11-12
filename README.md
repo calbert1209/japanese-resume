@@ -6,7 +6,7 @@
 |:-----|
 | Albert, Christian James |
 | アルバート、クリスチャン　ジェイムズ |
-| (姓、ファースト　ミドル) |
+| (ラスト、ファースト　ミドル) |
 |[on LinkedIn](https://www.linkedin.com/in/christianjamesalbert/)|
 |[calbert1209@gmail.com](mailto:calbert1209@gmail.com)|
 |横浜市在住|
