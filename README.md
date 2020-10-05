@@ -17,32 +17,30 @@
 
 ### プログラミング言語
 
+- Typescript
+- Javascript
 - C#
 - XAML
-- Javascript
-- Typescript
 - Powershell
 - Dart
 
 ### フレームワーク
 
+- React
+- Node.js
+- Express.js
 - .Net
 - Windows RT API / UWP
 - WPF
-- React
-- Node.js
 
 ### その他
 
+- HTML 5 / CSS 3
 - スレッドセーフ非同期処理
 - Git / GitHub
 - Slack
 - Scrapbox.io
 - Windows Installer XML (WIX) Toolset
-- Redux
-- React Hooks
-- HTML 5 / CSS 3
-- WebRTC API
 
 ## 言語
 
@@ -64,8 +62,10 @@
 
 ## やったことはないが興味があるもの
 
-- ブロックチェイン、dapps
 - IoT（Arduino、Microbitなど）
+- DotNet Core
+- Phoenix / Elixir
+- Androidアプリ開発 / Kotlin
 
 ## 職務経歴
 
@@ -75,7 +75,14 @@
 
 #### 2019年5月 - 現在： Web版　ソフトウェア・エンジニア
 
-近代のブラウザさえあれば、どんな端末からでもアクセスできる次世代のロイロノート・スクールアプリをα版を開発中です。最新のWebRTC用のMediaDeviceとMediaRecorderのWeb APIを使って写真とビデオがアプリに挿入できるカメラダイアログを実装しています。React、TypeScript、Node.jsを利用しています。
+近代のブラウザさえあれば、どんな端末からでもアクセスできる次世代のロイロノート・スクールアプリをα版を開発中です。MediaDeviceとMediaRecorderのWeb APIを使って写真・ビデオ・QRコードのコンテンツがアプリに挿入できるカメラダイアログを実装しました。500文以上文言の翻訳とアプリの言語切替機能をReact Context APIで実現しました。React、TypeScript、Node.js、Express.js、Jest、esbuildを利用しています。
+
+##### 担当業務
+
+- 不具合の調査と修正
+- 追加機能の実装
+- リリース候補のQA
+- チームメンバーのコードレビュー
 
 #### 2016年4月 - 2019年5月： Windows版　ソフトウェア・エンジニア
 
@@ -88,7 +95,7 @@
 - ストア用とサイドローディング用のアプリのリリース
 - ランチャーアプリケーションとMSI開発
 
-#### 2016年4月 - 現在： 海外セールスとカスタマーサポート
+#### 2016年4月 - 2019年5月： 海外セールスとカスタマーサポート
 
 日本の2000校以上がロイロノート・スクールをすでに導入しています。海外発展のために会社は国際展示会（[米SXSW Edu](https://www.sxswedu.com/)、フィンランドとスウェーデンの[SETT](https://www.settdagarna.se/en/)）に参加したり、現地の学校を訪問して研修を行ったりしています。
 フィリピン、フィンランド、スウェーデンとオーストラリアを訪問し、プロモーションに協力する、初めてのモデル校を各国に成立しました。
